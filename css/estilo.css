@@ -1,0 +1,33 @@
+.rosaClaro{
+    color: rgb(228, 170, 179);
+}
+
+.fucsia{
+    color: rgb(224, 125, 194);
+    font-weight: bold;
+}
+
+.imagenes{
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.link{
+    text-decoration: none;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    font-size: 32px;
+}
+
+.fondo{
+    background-color: rgb(243, 243, 243);
+}
+
+.imgsm{
+    width: 200px;
+}
